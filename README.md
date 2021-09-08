@@ -5,5 +5,5 @@ I am a PhD student in the UConn EEB department
 interested in applied avian ecology, with particular interests 
 in threatened and endangered species, landscape ecology, 
 survey methods, species projections, and remote sensing techniques.
-[My CV](pdfs/Franco_Gigliotti_CV_08102020.pdf)
+[My CV](pdfs/Franco_Gigliotti_CV_060421.pdf)
 [Contact Info](contact-info.html)
