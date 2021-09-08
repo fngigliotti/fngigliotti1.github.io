@@ -2,7 +2,7 @@
 title: Contact Info
 layout: default
 ---
-Feel free to contact me at <frank.gigliotti@uconn.edu>.
+Please contact me at <frank.gigliotti@uconn.edu> with any questions or opportunities.
 
 Postal address:
 
